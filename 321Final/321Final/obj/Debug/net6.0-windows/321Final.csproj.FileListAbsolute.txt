@@ -1,0 +1,17 @@
+C:\Users\Ryan\source\repos\321Final\321Final\bin\Debug\net6.0-windows\321Final.exe
+C:\Users\Ryan\source\repos\321Final\321Final\bin\Debug\net6.0-windows\321Final.deps.json
+C:\Users\Ryan\source\repos\321Final\321Final\bin\Debug\net6.0-windows\321Final.runtimeconfig.json
+C:\Users\Ryan\source\repos\321Final\321Final\bin\Debug\net6.0-windows\321Final.dll
+C:\Users\Ryan\source\repos\321Final\321Final\bin\Debug\net6.0-windows\321Final.pdb
+C:\Users\Ryan\source\repos\321Final\321Final\obj\Debug\net6.0-windows\321Final.csproj.AssemblyReference.cache
+C:\Users\Ryan\source\repos\321Final\321Final\obj\Debug\net6.0-windows\_321Final.Form1.resources
+C:\Users\Ryan\source\repos\321Final\321Final\obj\Debug\net6.0-windows\321Final.csproj.GenerateResource.cache
+C:\Users\Ryan\source\repos\321Final\321Final\obj\Debug\net6.0-windows\321Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\source\repos\321Final\321Final\obj\Debug\net6.0-windows\321Final.AssemblyInfoInputs.cache
+C:\Users\Ryan\source\repos\321Final\321Final\obj\Debug\net6.0-windows\321Final.AssemblyInfo.cs
+C:\Users\Ryan\source\repos\321Final\321Final\obj\Debug\net6.0-windows\321Final.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\321Final\321Final\obj\Debug\net6.0-windows\321Final.dll
+C:\Users\Ryan\source\repos\321Final\321Final\obj\Debug\net6.0-windows\refint\321Final.dll
+C:\Users\Ryan\source\repos\321Final\321Final\obj\Debug\net6.0-windows\321Final.pdb
+C:\Users\Ryan\source\repos\321Final\321Final\obj\Debug\net6.0-windows\321Final.genruntimeconfig.cache
+C:\Users\Ryan\source\repos\321Final\321Final\obj\Debug\net6.0-windows\ref\321Final.dll
