@@ -1,0 +1,7 @@
+Code Readability
+
+Efficient Code
+
+KISS
+
+Encapsulation
