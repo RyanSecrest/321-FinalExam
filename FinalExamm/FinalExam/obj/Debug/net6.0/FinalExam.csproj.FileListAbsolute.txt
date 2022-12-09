@@ -1,0 +1,15 @@
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\bin\Debug\net6.0\FinalExam.exe
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\bin\Debug\net6.0\FinalExam.deps.json
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\bin\Debug\net6.0\FinalExam.runtimeconfig.json
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\bin\Debug\net6.0\FinalExam.dll
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\bin\Debug\net6.0\FinalExam.pdb
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.csproj.AssemblyReference.cache
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.AssemblyInfoInputs.cache
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.AssemblyInfo.cs
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.dll
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\obj\Debug\net6.0\refint\FinalExam.dll
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.pdb
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.genruntimeconfig.cache
+C:\Users\Ryan\source\repos\FinalExam\FinalExam\obj\Debug\net6.0\ref\FinalExam.dll
